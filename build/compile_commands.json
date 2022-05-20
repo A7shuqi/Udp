@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zk/Exersice/Udp/build",
+  "command": "/usr/bin/g++   -I/home/zk/Exersice/Udp/NetUdp  -g   -o CMakeFiles/UdpSerivce.dir/main.cpp.o -c /home/zk/Exersice/Udp/main.cpp",
+  "file": "/home/zk/Exersice/Udp/main.cpp"
+},
+{
+  "directory": "/home/zk/Exersice/Udp/build",
+  "command": "/usr/bin/g++   -I/home/zk/Exersice/Udp/NetUdp  -g   -o CMakeFiles/UdpSerivce.dir/NetUdp.cpp.o -c /home/zk/Exersice/Udp/NetUdp.cpp",
+  "file": "/home/zk/Exersice/Udp/NetUdp.cpp"
+}
+]

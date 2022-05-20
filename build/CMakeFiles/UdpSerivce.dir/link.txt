@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/UdpSerivce.dir/main.cpp.o CMakeFiles/UdpSerivce.dir/NetUdp.cpp.o  -o UdpSerivce -lpthread 
